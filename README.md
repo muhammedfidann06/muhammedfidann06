@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=E5534B&vCenter=true&width=600&height=70&lines=Hey%2C+I+am+Muhammed+%3A%5D;Mobile+Developer+%F0%9F%93%B1;AI+%2F+ML+Enthusiast+%F0%9F%A4%96" alt="Hey, I am Muhammed :]" />
+</h1>
 
-<!--
-**muhammedfidann06/muhammedfidann06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2 align="center">About Me</h2>
+      <ul>
+        <li>📱 Mobile Developer (Android &amp; cross-platform apps)</li>
+        <li>🤖 Passionate about AI / Machine Learning</li>
+        <li>🚀 Building apps that combine mobile and AI</li>
+        <li>🌱 Always learning something new</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <h2 align="center">Contact me:</h2>
+      <a href="https://www.linkedin.com/in/muhammed-fidan-734b09412/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a><br/>
+      <a href="https://www.instagram.com/muhammedf.fdn/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a><br/>
+      <a href="mailto:m.fidan0647@gmail.com">
+        <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+<details open>
+  <summary><h2>🛠️ Tech Stack</h2></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</details>
+
+<details open>
+  <summary><h2>📊 GitHub Stats</h2></summary>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammedfidann06&show_icons=true&theme=github_dark&hide_border=true&title_color=E5534B&icon_color=E5534B" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedfidann06&layout=compact&theme=github_dark&hide_border=true&title_color=E5534B" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammedfidann06&theme=github-dark-blue&hide_border=true&ring=E5534B&fire=E5534B&currStreakLabel=E5534B" />
+</p>
+
+</details>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammedfidann06&color=E5534B&style=flat-square&label=Profile+Views" />
+</p>

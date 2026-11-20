@@ -81,6 +81,20 @@
 </details>
 
 <details open>
+  <summary><h2>🚀 Featured Projects</h2></summary>
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧠 [**eeg-motor-classifier**](https://github.com/muhammedfidann06/eeg-motor-classifier) | Motor imagery detection from EEG signals – EEGNet-style CNN vs. Random Forest | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white) |
+| 🌳 [**hierarchical-clustering-ts**](https://github.com/muhammedfidann06/hierarchical-clustering-ts) | Hierarchical clustering from scratch – 4 linkage methods, silhouette score, SVG dendrograms | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) |
+| 🅿️ [**parking-saas**](https://github.com/muhammedfidann06/parking-saas) | Multi-tenant, white-label parking platform with pricing engine and tenant isolation | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| 🧬 [**rosalind-solutions**](https://github.com/muhammedfidann06/rosalind-solutions) | 15 bioinformatics problems (DNA, RNA, protein, graphs) with unit tests | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) |
+| 📊 [**r-data-analysis**](https://github.com/muhammedfidann06/r-data-analysis) | Data wrangling, visualization and regression with the tidyverse | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) |
+| 📈 [**r-statistics**](https://github.com/muhammedfidann06/r-statistics) | Hypothesis tests, bootstrap, confidence intervals and power analysis | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) |
+
+</details>
+
+<details open>
   <summary><h2>📊 GitHub Stats</h2></summary>
 
 <p align="center">

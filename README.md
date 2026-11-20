@@ -11,6 +11,7 @@
         <li>🤖 Passionate about AI / Machine Learning</li>
         <li>🚀 Building apps that combine mobile and AI</li>
         <li>🌱 Always learning something new</li>
+        <li>🇩🇪 Learning German – <i>Ich lerne jeden Tag ein bisschen Deutsch!</i></li>
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
@@ -85,9 +86,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| 🌦️ [**wetter-ooe**](https://github.com/muhammedfidann06/wetter-ooe) · [live demo](https://muhammedfidann06.github.io/wetter-ooe/) | Live weather from all GeoSphere Austria stations in Upper Austria – nearest station to FH Hagenberg | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
 | 🧠 [**eeg-motor-classifier**](https://github.com/muhammedfidann06/eeg-motor-classifier) | Motor imagery detection from EEG signals – EEGNet-style CNN vs. Random Forest | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white) |
 | 🌳 [**hierarchical-clustering-ts**](https://github.com/muhammedfidann06/hierarchical-clustering-ts) | Hierarchical clustering from scratch – 4 linkage methods, silhouette score, SVG dendrograms | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) |
-| 🅿️ [**parking-saas**](https://github.com/muhammedfidann06/parking-saas) | Multi-tenant, white-label parking platform with pricing engine and tenant isolation | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| 🅿️ [**parking-saas**](https://github.com/muhammedfidann06/parking-saas) | Multi-tenant, white-label parking platform – Laravel API, Next.js web app and Flutter mobile app | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) |
 | 🧬 [**rosalind-solutions**](https://github.com/muhammedfidann06/rosalind-solutions) | 15 bioinformatics problems (DNA, RNA, protein, graphs) with unit tests | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) |
 | 📊 [**r-data-analysis**](https://github.com/muhammedfidann06/r-data-analysis) | Data wrangling, visualization and regression with the tidyverse | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) |
 | 📈 [**r-statistics**](https://github.com/muhammedfidann06/r-statistics) | Hypothesis tests, bootstrap, confidence intervals and power analysis | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) |

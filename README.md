@@ -29,6 +29,28 @@
 </table>
 
 <details open>
+  <summary><h2>✨ Featured Project</h2></summary>
+
+<table>
+  <tr>
+    <td>
+      <h3>🌟 Lumira</h3>
+      <p>A mobile-first app combining a smooth mobile experience with AI-powered features. Available on the web as an installable PWA and on Android.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+      </p>
+      <a href="https://lumira-tr.com">
+        <img src="https://img.shields.io/badge/Live_Demo-E5534B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details open>
   <summary><h2>🛠️ Tech Stack</h2></summary>
 
 ### 📱 Mobile
@@ -50,6 +72,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🚀 Deploy &amp; Platforms
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![Android](https://img.shields.io/badge/Android_App-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </details>
 

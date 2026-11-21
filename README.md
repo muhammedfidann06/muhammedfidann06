@@ -22,6 +22,9 @@
       <a href="https://www.instagram.com/muhammedf.fdn/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
       </a><br/>
+      <a href="https://t.me/muhammedf_fdn">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+      </a><br/>
       <a href="mailto:m.fidan0647@gmail.com">
         <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
       </a>

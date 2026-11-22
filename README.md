@@ -46,11 +46,13 @@
   <tr>
     <td>
       <h3>🌟 Lumira</h3>
-      <p>A mobile-first app combining a smooth mobile experience with AI-powered features. Available on the web as an installable PWA and on Android.</p>
+      <p><b>A language-learning app with flashcards.</b> Learn words and phrases in 6 languages (German, English, Arabic, French, Spanish, Russian) with quizzes, pronunciation audio, a leaderboard and personal progress tracking. The interface is available in 7 languages, it works offline as an installable web app (PWA) and is on Google Play for Android.</p>
       <p>
         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Paddle-FDDD35?style=flat-square&logo=paddle&logoColor=black" alt="Paddle" />
       </p>
       <a href="https://lumira-tr.com">
         <img src="https://img.shields.io/badge/Live_Demo-E5534B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
@@ -91,6 +93,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_App-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Paddle](https://img.shields.io/badge/Paddle_Payments-FDDD35?style=for-the-badge&logo=paddle&logoColor=black)
 
 </details>
 
@@ -99,6 +102,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| 🌟 [**Lumira**](https://github.com/muhammedfidann06/lumira) · [website](https://lumira-tr.com) · [Google Play](https://play.google.com/store/apps/details?id=com.lumira.dilkartlari) | Language-learning flashcards in 6 languages – quizzes, pronunciation audio, leaderboard and progress tracking; works offline, web and Android | ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?logo=pwa&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Paddle](https://img.shields.io/badge/-Paddle-FDDD35?logo=paddle&logoColor=black) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) |
 | ⏱️ [**uptime-monitor**](https://github.com/muhammedfidann06/uptime-monitor) · [live demo](https://muhammedfidann06.github.io/uptime-monitor/) | Status page for my projects – GitHub Actions checks every site every 15 minutes, no server needed | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | 🖼️ [**link-preview**](https://github.com/muhammedfidann06/link-preview) · [live demo](https://muhammedfidann06.github.io/link-preview/) | See how a link looks when shared and which Open Graph / meta tags are missing | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white) |
 | ⚡ [**site-speed**](https://github.com/muhammedfidann06/site-speed) · [live demo](https://muhammedfidann06.github.io/site-speed/) | Compare response times of up to three websites from the browser | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=white) |
@@ -106,7 +110,7 @@
 | 🌦️ [**wetter-ooe**](https://github.com/muhammedfidann06/wetter-ooe) · [live demo](https://muhammedfidann06.github.io/wetter-ooe/) | Live weather from all GeoSphere Austria stations in Upper Austria – nearest station to FH Hagenberg | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
 | 🅿️ [**parking-saas**](https://github.com/muhammedfidann06/parking-saas) · [live demo](https://muhammedfidann06.github.io/parking-saas/) | Multi-tenant, white-label parking platform – Laravel API, Next.js web app and Flutter mobile app | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) |
 | 🍅 [**pomodoro-flutter**](https://github.com/muhammedfidann06/pomodoro-flutter) · [live demo](https://muhammedfidann06.github.io/pomodoro-flutter/) | Cross-platform focus timer – drift-free timer logic, statistics, streaks, settings | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
-| 🔢 [**more-or-less-java**](https://github.com/muhammedfidann06/more-or-less-java) | Number puzzle game with Swing GUI – OOP design, save/load, move suggestions | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white) |
+| 🔢 [**more-or-less-java**](https://github.com/muhammedfidann06/more-or-less-java) · [play online](https://muhammedfidann06.github.io/more-or-less-java/) | Number puzzle game with Swing GUI – OOP design, save/load, move suggestions | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white) |
 
 </details>
 

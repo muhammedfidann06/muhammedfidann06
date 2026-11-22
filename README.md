@@ -32,6 +32,13 @@
   </tr>
 </table>
 
+> **🤖 How I build my projects**
+> I'm at the beginning of my software journey. The projects on this profile were built **together with AI coding assistants (Claude)** –
+> I describe what I want, the AI writes most of the code, and I use these projects to learn how it works.
+> My goal is to learn to write this code myself, step by step. Every repo has tests and CI, so you can see that the code actually works.
+>
+> *Ich stehe am Anfang meines Software-Weges. Meine Projekte entstehen gemeinsam mit KI-Assistenten (Claude) – ich lerne dabei, den Code zu verstehen und selbst zu schreiben.*
+
 <details open>
   <summary><h2>✨ Featured Project</h2></summary>
 

@@ -55,6 +55,9 @@
       <a href="https://lumira-tr.com">
         <img src="https://img.shields.io/badge/Live_Demo-E5534B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
       </a>
+      <a href="https://play.google.com/store/apps/details?id=com.lumira.dilkartlari">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+      </a>
     </td>
   </tr>
 </table>
